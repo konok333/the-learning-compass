@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://YOUR-GITHUB-USERNAME.github.io/the-learning-compass/sitemap.xml\n
